@@ -1,0 +1,22 @@
+{
+    "titulo": "The Guardians",
+    "autor": "Diocelio Junior",
+    "capitulos": [
+      {
+        "numero": 1,
+        "titulo": "Do Início ao Fim",
+        "texto": "No início, o Universo foi criado. Isso irritou profundamente muitas pessoas e foi amplamente considerado como um passo equivocado."
+      },
+      {
+        "numero": 2,
+        "titulo": "O Restaurante no Fim do Universo",
+        "texto": "O tempo é uma ilusão. O almoço, ainda mais."
+      },
+      {
+        "numero": 3,
+        "titulo": "O Restaurante no Fim do Universo",
+        "texto": "O tempo é uma ilusão. O almoço, ainda mais."
+      }
+    ]
+  }
+  
